@@ -1,0 +1,24 @@
+body {
+    font-size: 15px;
+    margin: 5px;
+}
+
+h1 {
+    font-size: 10px;
+}
+
+h2 {}
+
+img {
+	max-width: 100%;
+}
+
+figure {
+	margin: 0;
+}
+
+@media screen (min-width: 965px;){
+    body {
+        background-color: red;
+    }
+}
