@@ -17,8 +17,8 @@ figure {
 	margin: 0;
 }
 
-@media screen (min-width: 965px;){
+@media screen and (min-width: 965px) {
     body {
-        background-color: red;
+        background: red;
     }
 }
